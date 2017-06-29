@@ -1,0 +1,35 @@
+.ctd-one-seventh {
+  width: 13% !important;
+}
+
+
+.ctd-today {
+  background-color: light-gray;
+}
+
+.btn-group .month-buttons {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ctd-date-drop {
+  background-color: #aaaaaa;
+}
+
+.col {
+  height: 150px !important;
+}
+
+.ctd-five-percent {
+  width: 5%;
+}
+
+.ctd-timeslot {
+
+}
+
+.ctd-table-week {
+  overflow: scroll;
+  display: block;
+}
